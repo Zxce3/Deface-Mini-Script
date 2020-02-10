@@ -1,3 +1,4 @@
+this script just for fun :v
 # How to install
 <h4>
 
