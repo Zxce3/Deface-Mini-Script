@@ -13,3 +13,5 @@
 
 •python2 mini.py<br></h4>
 # Screenshot
+![Termux](https://raw.githubusercontent.com/Zxce3/Deface-Mini-Script/master/Screenshot_2020-02-10-14-42-41-817_com.termux.png)
+![Chrome](https://raw.githubusercontent.com/Zxce3/Deface-Mini-Script/master/Screenshot_2020-02-10-14-44-24-068_com.android.chrome.png)
